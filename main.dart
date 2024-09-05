@@ -23,8 +23,7 @@ class HomeScreen extends StatelessWidget {
         backgroundColor: Color.fromARGB(255, 247, 244, 243),
         bottom: TabBar(
           tabs: [
-            Tab(text: 'BERITA TERBARU'),
-            Tab(text: 'PERTANDINGAN HARI INI'),
+            Tab(text: 'BERITA TERBARU')
           ],
         ),
       ),
